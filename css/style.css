@@ -1,0 +1,39 @@
+body {
+background-color: rgb(255, 255, 128);
+margin-left: 100px;
+margin-right: 300px;
+}
+
+header {
+margin-top: 70px;
+}
+
+h1 {
+color: red;
+font-family: fantasy;
+}
+
+h2 {
+font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+font-size: 18px;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin bottom: 20px;
+    width: 300px; 
+}
+
+.logo {
+    width: 20px;
+}
